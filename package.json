@@ -10,7 +10,7 @@
     "@babel/preset-typescript": "^7.0.0",
     "@babel/register": "^7.0.0",
     "@crowdin/cli": "^4.0.0",
-    "@jest/globals": "workspace:*",
+    "@jest/globals": "25.5.0",
     "@jest/test-utils": "workspace:*",
     "@lerna-lite/cli": "^3.0.0",
     "@lerna-lite/publish": "^3.0.0",
